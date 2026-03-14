@@ -41,7 +41,7 @@ Sebelum menjalankan aplikasi, pastikan sistem sudah terinstal:
 Berikut adalah dokumentasi antarmuka website dan hasil pengujian REST API menggunakan **Postman**.
 
 | Fitur / Endpoint | Deskripsi |
-|---|---|---|
+|---|---|
 | **Tampilan Web** | Tampilan antarmuka Web Form dan Tabel Data KTP menggunakan HTML dan CSS. |
 | **POST `/ktp`** | Pengujian API untuk menambahkan data KTP baru ke dalam database. | 
 | **GET `/ktp`** | Pengujian API untuk mengambil dan menampilkan seluruh data KTP. | 
